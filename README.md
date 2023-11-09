@@ -4,6 +4,7 @@ Spatial Transcriptomics
 Assessing segmentation quality of marker cells 
 
 Pipeline via Molecular Cartography ImageJ2 plugin 
+
 ![iScreen Shoter - Google Chrome - 231109111356](https://github.com/Elena983/Resolve_Bioscience-/assets/68946912/ef398db0-4682-48ad-92ff-af0b28e1cb95)
 
 Input
